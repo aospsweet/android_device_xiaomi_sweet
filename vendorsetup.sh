@@ -9,7 +9,7 @@ git clone https://github.com/PixelOS-Devices/vendor_xiaomi_sweet.git -b fourteen
 
 echo 'Cloning Common Vendor tree [3/6]'
 # Common Vendor Tree
-git clone github.com/PixelOS-Devices/vendor_xiaomi_sm6150-common.git -b fourteen vendor/xiaomi/sm6150-common
+git clone https://github.com/PixelOS-Devices/vendor_xiaomi_sm6150-common.git -b fourteen vendor/xiaomi/sm6150-common
 
 echo 'Cloning Kernel tree [4/6]'
 # Kernel Tree
